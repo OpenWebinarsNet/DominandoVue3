@@ -1,0 +1,14 @@
+[
+    {
+    "userId": 1,
+    "id": 1,
+    "title": "Pinia goals",
+    "body": "Pinia is a store library for Vue, it allows you to share a state across components/pages. "
+    },
+    {
+    "userId": 1,
+    "id": 2,
+    "title": "Porque Vue 3 ?",
+    "body": "Vue 3 es un framework progresivo de extrema agilidad basado en JavaScript y creado por Evan You"
+    }
+]

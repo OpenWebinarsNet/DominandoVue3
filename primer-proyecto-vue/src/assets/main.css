@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  color: azure;
+  display:flex;
+}
+
+#app {
+  margin: 0 auto;
+}
